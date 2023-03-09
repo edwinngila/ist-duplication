@@ -1,0 +1,23 @@
+.navBAR{
+    background-color: rgb(232, 41, 41);
+    min-height: 50px;
+    color: white;
+    padding: 20px;
+}
+.email{
+    border-right: 2px solid white;
+    min-height: 50px;
+    min-width: 250px;
+}
+/* .main{
+    min-width: 50px;
+} */
+/* .navBAR>*{
+    background-color: brown;
+} */
+.text{
+    width: 100vw;
+}
+/* .section1{
+    border-right: 2px solid white;
+} */
