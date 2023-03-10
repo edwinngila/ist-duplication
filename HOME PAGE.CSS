@@ -1,4 +1,4 @@
-.navBAR{
+.navBAR1{
     background-color: rgb(232, 41, 41);
     min-height: 50px;
     color: white;
@@ -24,4 +24,19 @@
 } */
 .navBAR2{
     min-height: 10px;
+}
+ol li{
+    list-style: none;
+}
+body{
+    overflow-x: hidden;
+}
+.ABOUTpage{
+    background-color: #E3ECEF;
+    margin-top:100px;
+    padding: 50px;
+}
+.more-about-us{
+    border: 2px solid white;
+    margin-top: 50px;
 }
