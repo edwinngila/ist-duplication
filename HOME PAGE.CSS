@@ -3,6 +3,7 @@
     min-height: 50px;
     color: white;
     padding: 20px;
+    white-space: nowrap;
 }
 .email{
     border-right: 2px solid white;
@@ -21,3 +22,6 @@
 /* .section1{
     border-right: 2px solid white;
 } */
+.navBAR2{
+    min-height: 10px;
+}
