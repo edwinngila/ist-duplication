@@ -38,5 +38,87 @@ body{
 }
 .more-about-us{
     border: 2px solid white;
+    margin-top: 20px;
+}
+.buttontop{
+    border:2px solid white;
+    border-radius: 20px;
+}
+.headertext{
+    margin-top:-100px;
+}
+.text2{
     margin-top: 50px;
 }
+.img2{
+    width: 350px;
+    height: 290px;
+}
+.imgcont1{
+    margin-top: 100px;
+}
+.imgcont2{
+    margin-top: 60px;
+}
+.text3 {
+    width: 350px;
+    background-color: #f3fafc;
+    margin-left: -1px;
+    height: 150px;
+    padding: 30px;
+}
+.text3 h2{
+    font-size: 25px;
+    font-weight: 600;
+}
+.img3{
+    width: 360px;
+}
+.text4{
+    width: 360px;
+    background-color: #f3fafc;
+    padding: 30px;
+    height: 150px;
+    font-size: 10px;
+}
+.text4 h2{
+    font-size: 25px;
+    font-weight: 600;
+}
+.text5{
+    background-color: #f3fafc;
+    padding: 30px;
+    height: 150px;
+    font-size: 10px;
+}
+.text5 h2{
+    font-size: 25px;
+    font-weight: 600;
+}
+.img4{
+    width: 350px;
+}
+.Testimonials{
+    min-height: 400px;
+}
+.Partners{
+    height: 250px;
+}
+.scrollIMG{
+    background-image: url(/img/best-reason-to-use-cbd-oil.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 70px;
+    margin-top: 100px;
+}
+.comment p{
+    width: 340px;
+    min-height: 150px;
+    background-color: black;
+}
+.profile{
+    white-space: nowrap;
+}
+/* .Partners-img{
+    width: 50px;
+} */
