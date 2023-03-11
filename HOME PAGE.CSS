@@ -1,5 +1,5 @@
 .navBAR1{
-    background-color: rgb(232, 41, 41);
+    background-color: #e82929;
     min-height: 50px;
     color: white;
     padding: 20px;
@@ -122,3 +122,39 @@ body{
 /* .Partners-img{
     width: 50px;
 } */
+body{
+    scroll-behavior: smooth;
+}
+.footer{
+    background-color: black;
+    min-height: 300px;
+}
+.list{
+    list-style: none;
+    display: block;
+    width: 300px;
+    
+}
+.list li{
+    margin: 30px;
+    font-size: 15px;
+}
+.list li a{
+    text-decoration: none;
+    color: white;
+}
+.list li a i{
+    color: #e82929;
+}
+.list li a:hover{
+    color: #e82929;
+}
+.footercont{
+ /* background-color: aliceblue; */
+ 
+}
+.copyright{
+    background-color: black;
+    height: 100px;
+    border-top: 2px solid white;
+}
