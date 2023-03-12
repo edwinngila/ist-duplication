@@ -10,6 +10,9 @@
     min-height: 50px;
     min-width: 250px;
 }
+ul li a :visited{
+    color: #e82929;
+}
 /* .main{
     min-width: 50px;
 } */
@@ -24,9 +27,6 @@
 } */
 .navBAR2{
     min-height: 10px;
-}
-ol li{
-    list-style: none;
 }
 body{
     overflow-x: hidden;

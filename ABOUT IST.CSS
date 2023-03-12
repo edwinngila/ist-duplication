@@ -21,3 +21,53 @@
     margin: 15px;
     opacity: 0.7;
 }
+.about{
+    color: white;
+    padding: 20px;
+    min-height: 250px;
+    background-color:#171f32 ;
+}
+.quote{
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.8;
+    background-color: #f3fafc;
+    z-index: 1;
+    margin-top: 40px;
+    border-left: 2px #e82929 solid;
+}
+/* .backgroud{
+    z-index: 2;
+    background-color: #e82929;
+    height: 40px;
+    width: 300px;
+    margin-top: 0px;
+
+} */
+.welcome{
+    margin-top: 150px;
+}
+.imghigh{
+    background-image: url(/img/WhatsApp-Image-2021-07-06-at-13.05.59-min.jpeg);
+    min-height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: -20px;
+    width: 500px;
+}
+.texthigh{
+    min-height: 1000px;
+    margin-left: -20px;
+    padding: 50px;
+    padding-left: 60px;
+}
+.texthigh p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+.texthigh ol li{
+    margin-left: 10px;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+}

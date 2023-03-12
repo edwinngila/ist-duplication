@@ -1,0 +1,9 @@
+.about{
+    color: white;
+    padding: 20px;
+    min-height: 250px;
+    background-color:#171f32 ;
+}
+.location p{
+    font-weight:500 ;
+}

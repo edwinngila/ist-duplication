@@ -1,0 +1,17 @@
+.about{
+    color: white;
+    padding: 20px;
+    min-height: 250px;
+    background-color:#171f32 ;
+}
+.menu{
+    border: 1px solid gray;
+}
+/* .menu span{
+    border: 1px solid gray;
+    width: 300px;
+} */
+span{
+    width: 500px;
+    font-weight: 700;
+}
